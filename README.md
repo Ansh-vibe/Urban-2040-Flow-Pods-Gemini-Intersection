@@ -1,4 +1,3 @@
-[project_readme.md](https://github.com/user-attachments/files/32184114/project_readme.md)
 # Urban 2040: Flow Pods & Gemini Intersection
 
 An intelligent, sustainable urban transit and living infrastructure conceptualized for the year 2040. This project replaces traditional congestion-heavy transit systems with modular **Flow Pods** coordinated in real-time by a Google Gemini neural intelligence layer, seamlessly embedded within vertical green-facade architecture.
