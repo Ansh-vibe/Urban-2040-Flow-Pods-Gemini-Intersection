@@ -30,19 +30,15 @@ The following views represent the core architectural layers generated and valida
 
 ### 1. Curbside Station & Pod Architecture (Day/Midday Detail)
 *Close-up of passenger docking, hydroponic trellis integration, and smart surface boarding zones.*
-![Modular Curbside Station & Pod Architecture](edited-image.png)
 
 ### 2. 2040 Autonomous Nexus (Golden Hour Overview)
 *Isometric render showcasing vertical community gardens and active flow pod transit lanes.*
-![2040 Autonomous Nexus](edited-image.jpg)
 
 ### 3. Gemini Adaptive Street Grid (Dusk / Night Neural Mode)
 *Night mode visualization highlighting the dynamic neural light paths managing traffic flow.*
-![Gemini Adaptive Street Grid](edited-image_2.jpg)
 
 ### 4. Structure & Infrastructure Detail
 *Close-up view of passenger waiting zones and docking status indicators.*
-![Structure & Infrastructure Detail](edited-image_3.jpg)
 
 ---
 
