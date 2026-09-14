@@ -1,0 +1,6 @@
+{
+  "name": "Urban 2040: Flow Pods & Gemini Intersection",
+  "description": "Photorealistic isometric render and interactive exploration platform for an urban intersection in 2040 featuring AI-coordinated Flow Pods, vertical community gardens, and Gemini adaptive light overlays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
